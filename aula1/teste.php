@@ -27,8 +27,6 @@
 // echo gettype($nome).'<br>';
 // echo gettype($frase).'<br>';
 // echo gettype($separador).'<br>';
-
-
 // $valor = null;
 // $valor = 0;
 // $valor = "zero";
